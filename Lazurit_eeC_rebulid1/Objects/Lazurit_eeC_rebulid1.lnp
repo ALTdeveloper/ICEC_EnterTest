@@ -1,0 +1,4 @@
+".\Objects\Lazurit_eeC_rebulid1.obj",
+".\Objects\oled.obj" 
+TO ".\Objects\Lazurit_eeC_rebulid1" 
+PRINT(".\Listings\Lazurit_eeC_rebulid1.m51") RAMSIZE(256) 
